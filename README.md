@@ -2,6 +2,16 @@
 
 Official API definitions and Postman resources for the Platform Chat API.
 
+<!-- Chat Growth Credit campaign banner -->
+<p align="center">
+  <a href="https://www.nexconn.ai/activity/chat-growth-credit?utm_source=github&utm_medium=readme&utm_campaign=chat-growth-credit&utm_repo=nexconn-openapi">
+    <img src="./assets/chat-growth-credit-hero.jpg" alt="Build your app with 10,000 free MAU and full Chat Pro capabilities" width="100%" />
+  </a>
+</p>
+
+> **Chat Growth Credit** — Build with Nexconn Chat and explore full capabilities free up to **10,000 MAU**. [View the offer details →](https://www.nexconn.ai/activity/chat-growth-credit?utm_source=github&utm_medium=readme&utm_campaign=chat-growth-credit&utm_repo=nexconn-openapi)
+
+
 This repository is the public source of truth for our API contract. If you want to explore the API, import it into Postman, generate SDKs, or build backend integrations, start here.
 
 ## What you can do with this repository
